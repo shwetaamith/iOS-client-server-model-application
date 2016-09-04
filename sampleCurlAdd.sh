@@ -1,0 +1,1 @@
+curl --data "{ \"jsonrpc\": \"2.0\", \"method\": \"add\", \"params\": [{"Title": \"Enter Title\";"Plot": \"Enter plot\";"Actors": \"Enter actors\";"Genre": Mystery;"Rated": \"\";"Released": \"2016-03-18\";"Year": \"\";}], \"id\": 3}" localhost:8080

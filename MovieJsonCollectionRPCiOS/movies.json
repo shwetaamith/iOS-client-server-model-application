@@ -1,0 +1,41 @@
+{
+  "Baby": {
+    "Title":"Baby",
+    "Year":"2015",
+    "Rated":"N/A",
+    "Released":"23 Jan 2015",
+    "Runtime":"159 min",
+    "Genre":"Action, Crime, Thriller",
+    "Actors":"Akshay Kumar, Danny Denzongpa, Rana Daggubati, Tapsee Pannu",
+    "Plot":"An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it's up to them to track the terrorists' international tentacles and prevent them from striking at the heart of India."  },
+  "Full Metal Jacket": {
+    "Title":"Full Metal Jacket",
+    "Year":"1987",
+    "Rated":"R",
+    "Released":"10 Jul 1987",
+    "Runtime":"116 min",
+    "Genre":"Drama, War",
+    "Actors":"Matthew Modine, Adam Baldwin, Vincent D'Onofrio, R. Lee Ermey",
+    "Plot":"A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue."
+  },
+  “The Shining”: {
+    "Title":"The Shining",
+    "Year":"1980",
+    "Rated":"R",
+    "Released":"23 May 1980",
+    "Runtime":"146 min",
+    "Genre":"Drama, Horror",
+    "Actors":"Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+    "Plot":"A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future."
+},
+  “The Proposal”:{
+    "Title":"The Proposal",
+    "Year":"2009",
+    "Rated":"PG-13",
+    "Released":"19 Jun 2009",
+    "Runtime":"108 min",
+    "Genre":"Comedy, Drama, Romance",
+    "Actors":"Sandra Bullock, Ryan Reynolds, Mary Steenburgen, Craig T. Nelson",
+    "Plot":"A pushy boss (Sandra Bullock) forces her young assistant (Ryan Reynolds) to marry her in order to keep her Visa status in the U.S. and avoid deportation to Canada."
+}
+}
